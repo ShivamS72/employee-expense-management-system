@@ -1,5 +1,9 @@
 # employee-expense-management-system
 
+## Tech Stack
+- MongoDB
+- Express.js
+- Node.js
 ## Setting up on local system
 
 
