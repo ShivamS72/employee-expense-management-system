@@ -1,5 +1,5 @@
 # employee-expense-management-system
-
+Expense management system for employees at an organization.
 ## Tech Stack
 - MongoDB
 - Express.js
