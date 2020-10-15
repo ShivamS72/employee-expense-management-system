@@ -38,9 +38,9 @@ On the front-end, the user will have two options:
 - Add expense
 - View expense
 
-*Add expense* - The user will need to add his phone number, name, select the type of expense and the amount. There can be two possibilities :
+**Add expense** - The user will need to add his phone number, name, select the type of expense and the amount. There can be two possibilities :
 * If the employee already exists, then the expense of the user needs to be updated in the database.
 * If the employee does not exists, then the employee with the given phone number will be created. After that, his expense would be added to the database.
 
-*View expense* - The user will be able to view the expenses of the employees existing in the database. Various expenses as well as the total expense will be shown for each employee.
+**View expense** - The user will be able to view the expenses of the employees existing in the database. Various expenses as well as the total expense will be shown for each employee.
 
