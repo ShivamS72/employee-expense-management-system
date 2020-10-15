@@ -44,3 +44,6 @@ On the front-end, the user will have two options:
 
 **View expense** - The user will be able to view the expenses of the employees existing in the database. Various expenses as well as the total expense will be shown for each employee.
 
+## To be added soon
+* Employees will be able to add scanned images of bill, which will then be processed trough OCR.
+* For daily transport and food bills, employee cards with barcodes will be used. A barcode scanner will be used and the expense will be directly udpdated in the database.
