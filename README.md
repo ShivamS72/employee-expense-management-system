@@ -46,4 +46,4 @@ On the front-end, the user will have two options:
 
 ## To be added soon
 * Employees will be able to add scanned images of bill, which will then be processed trough OCR.
-* For daily transport and food bills, employee cards with barcodes will be used. A barcode scanner will be used and the expense will be directly udpdated in the database.
+* For daily transport and food bills, employee cards with barcode will be used. A barcode scanner will be used and the expense will be directly udpdated into the database.
